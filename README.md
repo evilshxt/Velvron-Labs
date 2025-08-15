@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://velvronlabs.vercel.app/favicon.ico" width="64" alt="Velvron Labs Logo" />
-</p>
-
 # 🚀 Velvron Labs
 
 <p align="center">
