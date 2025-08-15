@@ -1,36 +1,79 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<p align="center">
+  <img src="https://velvronlabs.vercel.app/favicon.ico" width="64" alt="Velvron Labs Logo" />
+</p>
 
-## Getting Started
+# 🚀 Velvron Labs
 
-First, run the development server:
+<p align="center">
+  <b>Engineering the Future, One Line of Code at a Time</b>
+</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+<p align="center">
+  <a href="https://velvronlabs.vercel.app">🌐 Website</a> • <a href="mailto:brownnestro0@gmail.com">📧 Email</a> • <a href="https://www.linkedin.com/in/nestro-brown-0b2734361/">💼 LinkedIn</a>
+</p>
+
+---
+
+## 📚 Table of Contents
+1. [About Us](#about-us)
+2. [Vision & Mission](#vision--mission)
+3. [What We’re Working On](#what-were-working-on)
+4. [Contact](#contact)
+
+---
+
+## 🏢 About Us
+
+Velvron Labs is more than just a company — it’s a mindset. We focus on:
+
+- **Innovation-First Engineering** — pushing boundaries of AI, cloud, and automation
+- **Scalable Solutions** — building tech that grows as you grow
+- **Purpose-Driven Design** — creating tools that matter
+
+> Founded in **2025**, we’re small but mighty — and ready to shake things up.
+
+---
+
+## 📈 Vision & Mission
+
+```mermaid
+graph TD
+    A[Velvron Labs] --> B[Innovate]
+    A --> C[Build]
+    A --> D[Scale]
+    B --> E[AI-driven Systems]
+    C --> F[Developer Tools]
+    D --> G[Cloud Solutions]
+    E --> H[Impact]
+    F --> H
+    G --> H
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+> **Turn ambitious ideas into transformative products.**
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🛠️ What We’re Working On
 
-## Learn More
+- 🤖 AI research & prototyping
+- ☁️ High-performance cloud architectures
+- 🛠️ Sleek, developer-friendly tools
+- 🧪 Experimental open-source frameworks
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📬 Contact
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+For partnerships, licensing, or collaboration:
 
-## Deploy on Vercel
+| Method   | Details |
+|----------|---------|
+| 📧 Email | [brownnestro0@gmail.com](mailto:brownnestro0@gmail.com) |
+| 🌐 Website | [velvronlabs.vercel.app](https://velvronlabs.vercel.app) |
+| 💼 LinkedIn | [Nestro Brown](https://www.linkedin.com/in/nestro-brown-0b2734361/) |
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+<p align="center">
+  <sub>© 2025 Velvron Labs. All rights reserved.</sub>
+</p>
